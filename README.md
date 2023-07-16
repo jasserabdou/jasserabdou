@@ -33,7 +33,7 @@ My primary objective is to secure an internship position as a Computer Science (
 
 ## Certificates
 
-- Nestle for making a CV
+- for making a CV (Nestle)
 - Mathematics for Machine Learning and Data Science (Deep Learning.AI)
   1. Linear Algebra for Machine Learning and Data Science
   2. Calculus for Machine Learning and Data Science
