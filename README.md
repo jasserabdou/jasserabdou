@@ -9,7 +9,7 @@ My primary objective is to secure an internship position as a Computer Science (
 
 ## Education
 
-- Bachelor of Science in Computer Science Artificial Intelligence (in progress)
+- Bachelor of Science in Computer Science and Artificial Intelligence (in progress)
   University of Hertfordshire, Cairo
 - Foundational education at the Pakistan International School, Cairo
 
