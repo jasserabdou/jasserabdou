@@ -1,45 +1,49 @@
-# Hi there my name is Jasser 
+# Hi there, I'm Jasser! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasser%20AbdelFattah-blue)](https://www.linkedin.com/in/jasser-abdelfattah-67a420276/)
 [![Email](https://img.shields.io/badge/Email-jasserabdelfattah12%40gmail.com-red)](mailto:jasserabdelfattah12@gmail.com)
 
-## Objective
+## Objective 🎯
 
 My primary objective is to secure an internship position as a Computer Science (AI) Engineering student. I aim to leverage and expand upon my existing skills and expertise. With 2 years of practical experience in this field, I am eager to acquire additional hands-on experience and contribute to a dynamic team environment.
 
-## Education
+## Education 📚
 
-- Bachelor of Science in Computer Science and Artificial Intelligence (in progress)
-  University of Hertfordshire, Cairo
-- Foundational education at the Pakistan International School, Cairo
+I completed my foundational education at the Pakistan International School, Cairo. Currently, I am pursuing the 3rd year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo. While I am still working towards my degree, I am making steady progress and actively advancing my knowledge in the field.
 
-## Skills
+## Skills 🚀
 
-- :bulb: Problem-solving
-- :abacus: Mathematics
-- :bar_chart: Statistics
-- :chart_with_upwards_trend: Data analysis
-- :art: Data visualization (including Tableau)
-- :twisted_rightwards_arrows: Data wrangling
-- :gear: Data preprocessing
-- :mag_right: Exploratory data analysis (EDA)
-- :bar_chart: Statistical analysis
-- :octocat: Version control (Git, GitHub)
-- :spider_web: Web scraping
-- :snake: Python programming (NumPy, Pandas, Polars, Matplotlib, Seaborn, Scipy)
-- :file_cabinet: SQL
-- :office: Microsoft Office tools (Word, Excel, PowerPoint)
-- :speech_balloon: Fluent in English
-- :speech_balloon: Fluent in Arabic
+- Problem-solving 🧠
+- Mathematics 📊
+- Statistics 📈
+- Data analysis 📉
+- Data visualization (including Tableau) 📊🎨
+- Data wrangling 🛠️
+- Data preprocessing 📑
+- Exploratory data analysis (EDA) 🕵️‍♂️
+- Machine Learning 🤖
+- Data Science 📊🔬
+- Statistical analysis 📈
+- Version control (Git, GitHub) 📚🧾
+- Web scraping 🕸️
+- Python programming (NumPy, pandas, matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch, Keras, SciPy, scrapy, Beautiful Soup, NetworkX, OpenCV) 🐍
+- C and C++ Programming 🖥️
+- SQL 🗃️
+- Microsoft Office tools (Word, Excel, PowerPoint) 📚💼
+- Fluent in English 🇬🇧🗣️
+- Fluent in Arabic 🇦🇪🗣️
 
-## Certificates
+## Certificates 📜
 
-- for making a CV (Nestle)
-- Mathematics for Machine Learning and Data Science (Deep Learning.AI)
+- Certificate for making a CV (Nestle)
+- Mathematics for Machine Learning and Data Science (Deep Learning.AI & Coursera)
   1. Linear Algebra for Machine Learning and Data Science
   2. Calculus for Machine Learning and Data Science
   3. Probability and Statistics for Machine Learning and Data Science
+- Scientific Computing with Python (FreeCodeCamp)
 
-## Work Experience
+## Work Experience 💼
 
 Although I am currently a university student, I have yet to acquire practical work experience in the industry.
+
+Feel free to connect with me on LinkedIn or reach out via email. I'm excited to collaborate and learn together! 😄🌟
