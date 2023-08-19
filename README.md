@@ -26,7 +26,7 @@ I completed my foundational education at the Pakistan International School, Cair
 - Statistical analysis 📈
 - Version control (Git, GitHub) 📚🧾
 - Web scraping 🕸️
-- Python programming (NumPy, pandas, matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch, Keras, SciPy, NLTK, Gensim, spaCy, XGBoost, LightGBM, CatBoost, statsmodels, scrapy, Beautiful Soup, NetworkX, OpenCV, Plotly,     Bokeh, TextBlob, pandas-datareader, auto-sklearn, H2O.ai, Streamlit) 🐍
+- Python programming (NumPy, pandas, matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch, Keras, SciPy, statsmodels, scrapy, Beautiful Soup, NetworkX, OpenCV, Plotly,Streamlit and more) 🐍
 - C and C++ Programming 🖥️
 - SQL 🗃️
 - Microsoft Office tools (Word, Excel, PowerPoint) 📚💼
