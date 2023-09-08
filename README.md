@@ -8,11 +8,9 @@
 I am a dedicated Computer Science student specializing in AI, with
 a fervent ambition to excel in the realms of Data Science, Machine
 Learning, and Deep Learning. 
-
 My goal is to apply and amplify my
 current proficiency while making meaningful contributions within an
 innovative team setting. 
-
 Armed with 2 years of practical involvement
 in the field, I am enthusiastic about acquiring practical know-how and
 expanding my skill set.
@@ -20,7 +18,6 @@ expanding my skill set.
 ## Education 📚
 
 I completed my foundational education at the Pakistan International School, Cairo. Currently, I am pursuing the 3rd year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo. 
-
 While I am still working towards my degree, I am making steady progress and actively advancing my knowledge in the field.
 
 ## Skills 🚀
