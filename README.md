@@ -41,7 +41,7 @@ While I am still working towards my degree, I am making steady progress and acti
 - Fluent in Arabic 🇦🇪🗣️
 
 ## Certificates 📜
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasser%20AbdelFattah-blue)](https://www.linkedin.com/in/jasser-abdelfattah-67a420276/details/certifications/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Certificates-blue)](https://www.linkedin.com/in/jasser-abdelfattah-67a420276/details/certifications/)
 
 ## Work Experience 💼
 
