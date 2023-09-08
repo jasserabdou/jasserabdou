@@ -7,15 +7,20 @@
 
 I am a dedicated Computer Science student specializing in AI, with
 a fervent ambition to excel in the realms of Data Science, Machine
-Learning, and Deep Learning. My goal is to apply and amplify my
+Learning, and Deep Learning. 
+
+My goal is to apply and amplify my
 current proficiency while making meaningful contributions within an
-innovative team setting. Armed with 2 years of practical involvement
+innovative team setting. 
+
+Armed with 2 years of practical involvement
 in the field, I am enthusiastic about acquiring practical know-how and
 expanding my skill set.
 
 ## Education 📚
 
 I completed my foundational education at the Pakistan International School, Cairo. Currently, I am pursuing the 3rd year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo. 
+
 While I am still working towards my degree, I am making steady progress and actively advancing my knowledge in the field.
 
 ## Skills 🚀
@@ -41,9 +46,11 @@ While I am still working towards my degree, I am making steady progress and acti
 - Fluent in Arabic 🇦🇪🗣️
 
 ## Certificates 📜
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Certificates-blue)](https://www.linkedin.com/in/jasser-abdelfattah-67a420276/details/certifications/)
 
 ## Work Experience 💼
 
 Although I am currently a university student, I have yet to acquire practical work experience in the industry.
+
 Feel free to connect with me on LinkedIn or reach out via email. I'm excited to collaborate and learn together! 😄🌟
