@@ -1,7 +1,7 @@
 # Hi there, I'm Jasser! 👋
 
 # 💫 About Me:
-I am a dedicated Computer Science student specializing in AI,<br> with a fervent ambition to excel in the realms of Data Science, Machine Learning, and Deep Learning. My goal is to apply and amplify my current proficiency while making meaningful contributions within an innovative team setting. <br>Armed with 2 years of practical involvement in the field.<br>Education 📚<br>I completed my foundational education at <br>the Pakistan International School, Cairo. Currently, I am pursuing the 3rd year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo. While I am still working towards my degree, I am making steady progress and<br> actively advancing my knowledge in the field.
+I am a dedicated Computer Science student specializing in AI,<br> with a fervent ambition to excel in the realms of Data Science, Machine Learning, and Deep Learning. My goal is to apply and amplify my current proficiency while making meaningful contributions within an innovative team setting. <br>Armed with 2 years of practical involvement in the field. I completed my foundational education at <br>the Pakistan International School, Cairo. Currently, I am pursuing the 3rd year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo. While I am still working towards my degree, I am making steady progress and<br> actively advancing my knowledge in the field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jasser-abdelfattah-67a420276/) 
