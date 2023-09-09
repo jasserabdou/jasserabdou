@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jasser</h1>
-<h3 align="center">I am a dedicated Computer Science student in Hertfordshire university specializing in AI, with a fervent ambition to excel in the realms of Data Science, Machine Learning, and Deep Learning. My goal is to apply and amplify my current proficiency while making meaningful contributions within an innovative team setting. Armed with 2 years of practical involvement in the field.</h3>
+<h1 align="center">👋 Hi there, I'm Jasser</h1>
+<h3 align="center">I am a dedicated Computer Science student at Hertfordshire University specializing in AI, with a fervent ambition to excel in the realms of Data Science, Machine Learning, and Deep Learning. My goal is to apply and amplify my current proficiency while making meaningful contributions within an innovative team setting. Armed with 2 years of practical involvement in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasserabdou&label=Profile%20views&color=0e75b6&style=flat" alt="jasserabdou" /> </p>
 
