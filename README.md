@@ -44,6 +44,3 @@ Although I am currently a university student, I have yet to acquire practical wo
 
 Feel free to connect with me on LinkedIn or reach out via email. I'm excited to collaborate and learn together! 😄🌟
 
-## GitHub
-
---- ### :fire: My Stats 
