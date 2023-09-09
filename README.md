@@ -23,4 +23,4 @@ I am a dedicated Computer Science student specializing in AI,<br> with a fervent
 ![](https://github-contributor-stats.vercel.app/api?username=jasserabdou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jasserabdou&icon=6&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jasserabdou&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
