@@ -37,8 +37,19 @@
 <hr>
 
 <h3 align="left">My Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasserabdou&show_icons=true&locale=en&layout=compact" alt="jasserabdou" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasserabdou&show_icons=true&locale=en&layout=compact&theme=radical" alt="jasserabdou" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasserabdou&show_icons=true&locale=en" alt="jasserabdou" /></p>
+<p>&nbsp;</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasserabdou&" alt="jasserabdou" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasserabdou&show_icons=true&locale=en&theme=radical" alt="jasserabdou" />
+</p>
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasserabdou&theme=radical" alt="jasserabdou" />
+</p>
+
