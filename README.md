@@ -301,7 +301,7 @@ Chess and Ping Pong.**
 
 <p align="left">
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=jasserabdou&show_icons=true&locale=en&theme=radical"
     alt="jasserabdou"
   />
@@ -311,7 +311,7 @@ Chess and Ping Pong.**
 
 <p align="left">
   <img
-    align="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=jasserabdou&theme=radical"
     alt="jasserabdou"
   />
