@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Jasser</h1>
 <h3 align="center">I am a dedicated Computer Science student at Hertfordshire University specializing in AI, with a fervent ambition to excel in the realms of Data Science, Machine Learning, and Deep Learning. My goal is to apply and amplify my current proficiency while making meaningful contributions within an innovative team setting. Armed with 2 years of practical involvement in the field.</h3>
 
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasserabdou&label=Profile%20views&color=0e75b6&style=flat" alt="jasserabdou" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasserabdou" alt="jasserabdou" /></a> </p>
+
+<hr>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning**
 
@@ -16,6 +20,8 @@
 - 📫 How to reach me **jasserabdelfattah12@gmail.com**
 
 - ⚡ Fun fact **I Love Chess and Ping Pong.**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
