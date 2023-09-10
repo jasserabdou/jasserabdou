@@ -288,16 +288,17 @@ Chess and Ping Pong.**
 
 <hr />
 
-<h3 align="left">My Statistics:</h3>
-<p align="left">
+<h3 align="center">My Statistics</h3>
+
+<p align="center">
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jasserabdou&show_icons=true&locale=en&layout=compact&theme=radical"
     alt="jasserabdou"
   />
 </p>
 
-<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 <p align="center">
   <img
@@ -307,11 +308,11 @@ Chess and Ping Pong.**
   />
 </p>
 
-<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
 
-<p align="right">
+<p align="center">
   <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=jasserabdou&theme=radical"
     alt="jasserabdou"
   />
