@@ -22,12 +22,14 @@
   /></a>
 </p>
 <hr />
+
 - 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning**
 - 👯 I’m looking to collaborate on **AI Opensource** 
 - 🤝 I’m looking for help with **Internships or Jobs**
 - 👨‍💻 All of my projects are available at [https://github.com/jasserabdou?tab=repositories](https://github.com/jasserabdou?tab=repositories)
 - 📫 How to reach me **jasserabdelfattah12@gmail.com** 
 - ⚡ Fun fact **I Love Chess and Ping Pong.**
+
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
