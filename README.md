@@ -299,9 +299,9 @@ Chess and Ping Pong.**
 
 <p>&nbsp;</p>
 
-<p align="left">
+<p align="center">
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=jasserabdou&show_icons=true&locale=en&theme=radical"
     alt="jasserabdou"
   />
@@ -309,9 +309,9 @@ Chess and Ping Pong.**
 
 <p>&nbsp;</p>
 
-<p align="left">
+<p align="right">
   <img
-    align="left"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=jasserabdou&theme=radical"
     alt="jasserabdou"
   />
