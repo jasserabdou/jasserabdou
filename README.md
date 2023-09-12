@@ -274,11 +274,3 @@
     alt="jasserabdou"
   />
 </p>
-<p align="center">&nbsp;</p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jasserabdou&amp;theme=radical"
-    alt="jasserabdou"
-  />
-</p>
