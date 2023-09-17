@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🚀 As a dedicated Computer Science (AI) Engineering student, my foremost ambition is to secure an internship or job role as a Software Engineer or Data Scientist/Machine Learning Engineer. With three years of hands-on experience in the field, I am eager to apply and further develop my expertise.<br><br>- 📚 My educational journey began at the Pakistan International School, Cairo, where I laid a strong foundation. Currently, I'm in my third year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo.<br><br>- 💡 While actively pursuing my degree, I am consistently augmenting my knowledge and honing my skills in this dynamic field. I am enthusiastic about contributing to a collaborative team environment and gaining invaluable hands-on experience.<br>
+- 🚀 As a dedicated Computer Science (AI) Engineering student, my foremost ambition is to secure an internship or job role as a Software Engineer or Data Scientist/Machine Learning Engineer. With three years of hands-on experience in the field, I am eager to apply and further develop my expertise.
+
+-  📚 My educational journey began at the Pakistan International School, Cairo, where I laid a strong foundation. Currently, I'm in my third year of the Computer Science Artificial Intelligence program at the University of Hertfordshire, Cairo.
+
+- 💡 While actively pursuing my degree, I am consistently augmenting my knowledge and honing my skills in this dynamic field. I am enthusiastic about contributing to a collaborative team environment and gaining invaluable hands-on experience.<br>
 
 
 ## 🌐 Socials:
